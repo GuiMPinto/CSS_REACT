@@ -1,5 +1,5 @@
 import styles from './Vaga.module.css'
-
+import styled from 'styled-components'
 type Props = {
   titulo: string
   localizacao: string

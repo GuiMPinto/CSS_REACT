@@ -4,6 +4,13 @@ import ReactDOM from 'react-dom/client'
 import App from './App'
 import reportWebVitals from './reportWebVitals'
 
+//Import dos elementos
+import Cabecalho from './components/Cabecalho'
+import FormVagas from './components/FormVagas'
+import Hero from './components/Hero'
+import Vaga from './components/Vaga'
+import ListaVagas from './containers/ListaVagas'
+
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <React.StrictMode>

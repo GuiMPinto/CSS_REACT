@@ -1,5 +1,5 @@
 import { FormEvent, useState } from 'react'
-
+import styled from 'styled-components'
 import styles from './FormVagas.module.css'
 
 type Props = {

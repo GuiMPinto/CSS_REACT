@@ -5,6 +5,8 @@ import Vaga from '../../components/Vaga'
 
 import styles from './ListaVagas.module.css'
 
+import styled from 'styled-components'
+
 type Vaga = {
   id: string
   titulo: string
